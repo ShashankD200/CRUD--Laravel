@@ -1,0 +1,14 @@
+.light-color{
+background-color:#DDF2FD;
+}
+.dark-color{
+background-color:#164863;
+color:white;
+}
+.dark-color:hover{
+
+color:#DDF2FD;
+}
+.grey{
+    background-color:#ececec;
+}
