@@ -1,4 +1,47 @@
- <h1>Laravel CRUD - README</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Laravel CRUD - README</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            margin: 50px;
+        }
+
+        h1 {
+            color: #3498db;
+        }
+
+        h2 {
+            color: #2ecc71;
+        }
+
+        p {
+            color: #34495e;
+        }
+
+        code {
+            background-color: #ecf0f1;
+            padding: 2px 5px;
+            border-radius: 4px;
+            font-family: 'Courier New', Courier, monospace;
+            color: #e74c3c;
+        }
+
+        pre {
+            background-color: #ecf0f1;
+            padding: 10px;
+            border-radius: 8px;
+            overflow-x: auto;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Laravel CRUD - README</h1>
 
     <p>
         Welcome to the Laravel CRUD application! This project demonstrates basic CRUD (Create, Read, Update, Delete) operations using Laravel, a powerful PHP framework.
@@ -58,3 +101,6 @@
     <p>
         This Laravel CRUD application is open-sourced software licensed under the MIT license.
     </p>
+
+</body>
+</html>
